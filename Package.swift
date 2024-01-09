@@ -4,7 +4,7 @@ import PackageDescription
 let package = Package(
     name: "JavaScriptCore",
     platforms: [
-        .macOS(.v11),
+        .macOS(.v12),
         .iOS(.v14),
         .tvOS(.v14)
     ],
